@@ -3,7 +3,7 @@ Productivity timer that lets you set your own work and break lengths.
 
 Live Demo: [https://wildlifehexagon.github.io/pomodoro-clock/](https://wildlifehexagon.github.io/pomodoro-clock/)
 
-Built with HTML5, CSS3, Sass, JavaScript and jQuery.
+Built with HTML, CSS, Sass, JavaScript and jQuery.
 
 Features:
 * Able to adjust both timers up to 60 minutes
